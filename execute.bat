@@ -1,0 +1,1 @@
+java -jar compiler.jar --js app_o.js --js_output_file app.js
